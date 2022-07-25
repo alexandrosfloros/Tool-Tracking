@@ -11,5 +11,7 @@
 
 > ## References
 > [1] A. Bochkovskiy, C.-Y. Wang, and H.-Y. M. Liao, “Yolov4: Optimal speed and accuracy of object detection,” 2020.
+>
 > [2] Y. Gao, S. S. Vedula, C. E. Reiley, N. Ahmidi, B. Varadarajan, H. C. Lin, L. Tao, L. Zappella, B. Bejar, D. D. Yuh, C. C. G. Chen, R. Vidal, S. Khudanpur, and G. D. Hager, “The jhu-isi gesture and skill assessment working set (jigsaws): A surgical activity dataset for human motion modeling,” Available at https://cirl.lcsr.jhu.edu/wp-content/uploads/2015/11/JIGSAWS.pdf (2015).
+>
 > [3] D. Zhang, “Surgical data - peg transfer,” Available at https://drive.google.com/drive/folders/1D-42BJj-8zCG-ojtRB5Wa8mNnW3PN7KX (2022).
