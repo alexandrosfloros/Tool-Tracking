@@ -1,6 +1,8 @@
 # Real-time Surgical Instruments Segmentation and Localisation
 
-> The code can be viewed [here](https://colab.research.google.com/drive/1apNAoYEBjlo5BYbiUHR9CEUln2qndrhi?usp=sharing).
+The code can be viewed [here](https://colab.research.google.com/drive/1apNAoYEBjlo5BYbiUHR9CEUln2qndrhi?usp=sharing).
+
+## Demonstration
 
 <p align = "center">
   <img src="assets/knot.gif" width="350" height="350"/>
