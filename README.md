@@ -1,4 +1,4 @@
-# Real-Time Surgical Instrument Segmentation and Localisation
+# Demonstration
 
 <p align = "center">
   <img src="assets/knot.gif" width="350" height="350"/>
